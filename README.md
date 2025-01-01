@@ -4,7 +4,7 @@
 ## Wellcome, I'm Reza Javanmaqul 👋
 
 - 🏫 [Unige](https://www.unige.it/) - Master in Engineering Technology For Strategy (and Security) .
-- 👨‍🎓 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/rj2mcode/) #Open-To-Work
+- 👨‍🎓 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/rj2mcode/) <a href="https://www.linkedin.com/in/rj2mcode/" style="text-decoration: none;">#OpenToWork</a>
 - 📫 Email me at: rj2mcode@gmail.com .
 - 🧬 PHP / Laravel / Flutter / Python / C#.NET  .
 
